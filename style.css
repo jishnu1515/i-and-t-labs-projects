@@ -1,14 +1,14 @@
-
-.jishnu1{border-style: solid;}
-body{
+body 
+{
   text-align:center;
+  border-style:solid;
+  
 }
-img{
-  text-align:center;
+input
+{
+  background-color:white;
 }
-hr{
-  background-color:red;
-}
-button{
-  background-color:skyblue;
+button
+{
+  background-color:white;
 }
